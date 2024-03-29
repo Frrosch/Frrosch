@@ -4,6 +4,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <br/>
 👋 Welcome to my GitHub hub! I'm passionate about coding and specialize in Unity, C, and C#. Constantly expanding my skills through courses and eager for new challenges. Seniors, feel free to reach out for advice or job opportunities. Let's collaborate on exciting projects and shape the future of tech together! 💻✨
+<br/>
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN3NHJtNDN4dDc0c25iZjE3cGNpbHUxM3B2aWVyajZkeTE5N253ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy-downsized-large.gif)
 
 
